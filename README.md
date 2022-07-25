@@ -11,9 +11,9 @@ Original Code:
 https://github.com/mmikk/hextile-demo
 ## Screenshots
 
-![Material](https://raw.githubusercontent.com/proceduralit/proceduralit/PI_Sandbox/blob/main/Docs/Hextile/ht01.png)
+![Material](https://raw.githubusercontent.com/proceduralit/PI_Sandbox/blob/main/Docs/Hextile/ht01.png)
 
-![Material](https://raw.githubusercontent.com/proceduralit/proceduralit/PI_Sandbox/blob/main/Docs/Hextile/ht02.png)
+![Material](https://raw.githubusercontent.com/proceduralit/PI_Sandbox/blob/main/Docs/Hextile/ht02.png)
 
 
 ## Demo
