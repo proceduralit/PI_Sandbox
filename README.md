@@ -1,5 +1,5 @@
 
-![GIF](https://raw.githubusercontent.com/proceduralit/PI_Sandbox/Docs/Hextile/Hextile.gif)
+![GIF](https://raw.githubusercontent.com/proceduralit/PI_Sandbox/main/Docs/Hextile/Hextile.gif)
 
 # Hextile - UE Custom Shader - HLSL
 
@@ -11,9 +11,9 @@ Original Code:
 https://github.com/mmikk/hextile-demo
 ## Screenshots
 
-![Material](https://raw.githubusercontent.com/proceduralit/PI_Sandbox/Docs/Hextile/ht01.png)
+![Material](https://raw.githubusercontent.com/proceduralit/PI_Sandbox/main/Docs/Hextile/ht01.png)
 
-![Material](https://raw.githubusercontent.com/proceduralit/PI_Sandbox/Docs/Hextile/ht02.png)
+![Material](https://raw.githubusercontent.com/proceduralit/PI_Sandbox/main/Docs/Hextile/ht02.png)
 
 
 ## Demo
