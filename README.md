@@ -1,13 +1,13 @@
 
 # Welcome to the ProceduralIt Sandbox!
-Here I shared the tools that I worked on them in my free time.
+Here I shared some tools that I worked on them in my free time.
 
 ## IMPORTANT
 These tools haven't been tested on any production so make sure they are matched with your project's needs before using them. 
 
 
 
-## Topics:
+## Tools:
 * [Hextile - UE Custom Shader - HLSL](https://github.com/proceduralit/PI_Sandbox/wiki/Hextile---UE-Custom-Shader---HLSL)
 * [Hextile - Houdini HDA](https://github.com/proceduralit/PI_Sandbox/wiki/Hextile---Houdini-HDA)
 
