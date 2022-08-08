@@ -16,6 +16,9 @@
 *.dylib
 *.dll
 
+# HOUDINI
+Houdini/hda/backup/*
+
 # Fortran module files
 *.mod
 
